@@ -17,6 +17,13 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=REDUX&logoColor=fff" />
     <img src="https://img.shields.io/badge/ReduxSaga-999?style=flat-square&logo=REDUX-SAGA&logoColor=fff" />
   </div>
+
+  ## 👩🏻‍💻 Study
+  <div>
+    <img src="https://img.shields.io/badge/NextJS-000?style=flat-square&logo=NextJS&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Algorithms-00BCB4?style=flat-square&logo=Algorithms&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=fff" />
+  </div>
   
   <br />
   <br />
