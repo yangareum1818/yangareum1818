@@ -2,6 +2,7 @@
   <h2 align="center">🙏 welcome! 반가워요. 🙏 <br /> 저의 Github에 구경 오신 걸 환영합니다. </h2>
   <p align="center">🖐🏼 안 풀릴 땐 머리칼을 쥐어뜯으며 괴로워하지만, 깨달음을 얻는 순간의 성취감에 중독된 <strong>집요한 개발자 양아름</strong>입니다.</p>
   <br />
+  <div align="center">양아름의 <a href="https://yangseeingan.notion.site/yangseeingan/2e74a47a5c2046c299b0f41b1e95a74a">이력서</a>를 확인해 주세요.</div>
   
   ## 🛠️ FrontEnd Stack
   <div>
