@@ -4,10 +4,15 @@
     “어떤 선택을 하든 후회할 거 같아 멈칫하게된다면, 일단 추진력있게 행동으로 옮겨보고 후회하자” 라는 가치관을 가지고 있습니다.<br/>
   </p>
   <br />
-  <div align="center">양아름의 <a href="https://yangseeingan.notion.site/yangseeingan/2e74a47a5c2046c299b0f41b1e95a74a">이력서</a>를 확인해 주세요.</div>
+  <div align="center">저에 대해 궁금하시다면
+    <a href="https://yangseeingan.notion.site/yangseeingan/2e74a47a5c2046c299b0f41b1e95a74a">이력서</a>와 
+    <a href="https://yangseeingan.notion.site/101e563d79cf80b0b648c05302ab18a6">자기소개서</a>
+    를 확인해 주세요.
+  </div>
+  <br >
   
   ## 🛠️👩🏻‍💻 FrontEnd Stack
-  <div>
+  <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff" />
     <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=fff" />
